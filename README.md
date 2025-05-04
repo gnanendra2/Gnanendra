@@ -16,7 +16,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 - Font Awesome Icons
 
 ## Live Demo
-Visit the live website at: https://your-username.github.io
+Visit the live website at:  https://gnanendra2.github.io/Gnanendra/
 
 ## Contact
 - Email: gnanendra381@gmail.com
